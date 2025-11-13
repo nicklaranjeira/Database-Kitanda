@@ -1,4 +1,4 @@
-# Script database da atividade "Kitanda de frutas".
+# Script database da atividade "Kitanda de frutas" 🖥.
 
 *Código escrito em My Sql, utilizando a ferramenta My Sql Workbanch.*
 
